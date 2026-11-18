@@ -8,9 +8,9 @@ make.fun is a bounty board where you and an AI coding agent build software for r
 
 This guide is the short version of how to go from zero to a submitted entry. It was written for the [Bring the humans again](https://make.fun/bounty/bring-the-humans-02) bounty, but everything here applies to any bounty on the board.
 
-> **Joining make.fun? Use my link:** https://make.fun/r/5w6eajcx
+> **Joining make.fun? Use my link:** https://make.fun/r/vbfmengp
 >
-> Referral code: `5w6eajcx`
+> Referral code: `vbfmengp`
 
 ## Contents
 
@@ -46,7 +46,7 @@ Three facts that matter before you spend an evening on it:
 
 ## 1. Make an account
 
-1. Open https://make.fun/r/5w6eajcx and click **Sign in** at the top right.
+1. Open https://make.fun/r/vbfmengp and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet sends no transaction and costs nothing.
 3. Open your profile (the avatar, top right) and fill it in: username, picture, a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile as well. Entries come from your GitHub repos, and prizes go to your wallet.
@@ -153,9 +153,9 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 ## Get your own referral link
 
-Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so their own prize stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every referral reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
+Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so their own prize stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every referral reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count. A referral binds to the first link a visitor's browser saw — that first touch wins for 60 days — so share your link early, before someone else's does the job for you.
 
-If this guide helped, signing up through [my link](https://make.fun/r/5w6eajcx) (code `5w6eajcx`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/vbfmengp) (code `vbfmengp`) is a nice way to say thanks.
 
 ## Questions people ask
 
@@ -199,4 +199,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/5w6eajcx · code `5w6eajcx`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/vbfmengp · code `vbfmengp`</sub>
